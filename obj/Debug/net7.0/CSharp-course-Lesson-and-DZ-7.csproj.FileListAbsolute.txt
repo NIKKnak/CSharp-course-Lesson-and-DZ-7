@@ -12,3 +12,17 @@ C:\Users\NIKnak\Desktop\C# start\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\
 C:\Users\NIKnak\Desktop\C# start\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.pdb
 C:\Users\NIKnak\Desktop\C# start\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.genruntimeconfig.cache
 C:\Users\NIKnak\Desktop\C# start\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\ref\CSharp-course-Lesson-and-DZ-7.dll
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.exe
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.deps.json
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.runtimeconfig.json
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.dll
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.pdb
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.AssemblyInfoInputs.cache
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.AssemblyInfo.cs
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.csproj.CoreCompileInputs.cache
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.dll
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\refint\CSharp-course-Lesson-and-DZ-7.dll
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.pdb
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-7.genruntimeconfig.cache
+C:\Users\nik88\source\repos\CSharp-course-Lesson-and-DZ-7\obj\Debug\net7.0\ref\CSharp-course-Lesson-and-DZ-7.dll
